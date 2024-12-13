@@ -1,1 +1,1 @@
-# Azure cloud challenge 2024 :rocket:
+# Azure cloud challenge 2024 
